@@ -24,8 +24,6 @@ letter(2, 0, "Left")
 letter(500, 0, "Right")
 # letter(400, 0, "C")
 
-
-
 cv2.imshow("keyboard", keyboard)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
