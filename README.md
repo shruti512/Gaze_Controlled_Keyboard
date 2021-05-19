@@ -6,7 +6,6 @@ The “Gaze controlled keyboard” is a project where we will control the keyboa
 
 ## Motivation 
 To implement the technology for helping disabled people is the motivation for this project.
-
 Many disabled people suffer from mutism, paralysis, loss of limb (amputees) and elders who have suffered a stroke, as a result, have lost muscle movement, and they all have a very limited scope of controlling computer devices and other technologies.
 
 But the movement of the human eye (blinking, rotating) is possible among all groups of people.
